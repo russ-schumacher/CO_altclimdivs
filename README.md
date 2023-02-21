@@ -7,4 +7,4 @@ To run this notebook and obtain the same results shown in the manuscript, the nC
 
 Also included in the repository is a netCDF file that includes the final set of alternate climate divisions, shown below with names chosen by the authors.
 
-
+![Map of alternate climate divisions for Colorado](?raw=true "Optional Title")
