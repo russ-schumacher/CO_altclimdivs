@@ -7,6 +7,6 @@ To run this notebook and obtain the same results shown in the manuscript, the nC
 
 Also included in the repository is a netCDF file that includes the final set of alternate climate divisions, shown below with names chosen by the authors.
 
-Published article: Schumacher, R.S., R.A. Bolinger, and J.J. Lukas, 2024: Development of Alternate Climate Divisions for Colorado Based on Gridded Data. Journal of Applied and Service Clmatology, 2024, 3, 1-9. (https://doi.org/10.46275/JOASC.2024.06.002).
+Published article: Schumacher, R.S., R.A. Bolinger, and J.J. Lukas, 2024: Development of Alternate Climate Divisions for Colorado Based on Gridded Data. Journal of Applied and Service Clmatology, 2024, 3, 1-9. https://doi.org/10.46275/JOASC.2024.06.002.
 
 ![Map of alternate climate divisions for Colorado](clusters_tavg_prcp_11clusters_annot-01.png)
